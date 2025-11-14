@@ -1,0 +1,73 @@
+# Prerequisites
+*.d
+
+# Object files
+*.o
+*.ko
+*.obj
+*.elf
+/obj
+# Linker output
+*.ilk
+*.map
+*.exp
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Libraries
+*.lib
+*.a
+*.la
+*.lo
+
+# Shared objects (inc. Windows DLLs)
+*.dll
+*.so
+*.so.*
+*.dylib
+
+# Executables
+*.exe
+*.out
+*.app
+*.i*86
+*.x86_64
+*.hex
+
+# Debug files
+*.dSYM/
+*.su
+*.idb
+*.pdb
+
+# Kernel Module Compile Results
+*.mod*
+*.cmd
+.tmp_versions/
+modules.order
+Module.symvers
+Mkfile.old
+dkms.conf
+.vs/WinParserExcels/CopilotIndices/17.14.1290.42047/CodeChunks.db
+.vs/WinParserExcels/CopilotIndices/17.14.1290.42047/CodeChunks.db-shm
+.vs/WinParserExcels/CopilotIndices/17.14.1290.42047/CodeChunks.db-wal
+.vs/WinParserExcels/CopilotIndices/17.14.1290.42047/SemanticSymbols.db
+.vs/WinParserExcels/CopilotIndices/17.14.1290.42047/SemanticSymbols.db-shm
+.vs/WinParserExcels/CopilotIndices/17.14.1290.42047/SemanticSymbols.db-wal
+.vs/WinParserExcels/DesignTimeBuild/.dtbcache.v2
+.vs/WinParserExcels/FileContentIndex/15c16cc8-ce2c-42fb-8c42-89c2bf7ba095.vsidx
+.vs/WinParserExcels/FileContentIndex/510c5513-e390-4a59-b4c8-f12a77b4783d.vsidx
+.vs/WinParserExcels/FileContentIndex/9493a6ae-bbf6-4821-a5f3-76130733865d.vsidx
+.vs/WinParserExcels/FileContentIndex/c0240e82-51c3-4542-95ba-48b59e25c4b5.vsidx
+.vs/WinParserExcels/FileContentIndex/cc2bf1e2-fd09-4b88-bce9-f135c7a543b9.vsidx
+.vs/WinParserExcels/v17/.suo
+.vs/WinParserExcels/v17/DocumentLayout.backup.json
+.vs/WinParserExcels/v17/DocumentLayout.json
+analyze_excel.py
+analyze_structure.py
+bin/Debug/net8.0-windows/WinParserExcels.deps.json
+bin/Debug/net8.0-windows/WinParserExcels.runtimeconfig.json
+find_dates.py
+*.vsidx
